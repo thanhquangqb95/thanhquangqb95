@@ -12,13 +12,25 @@
 - 💬 Ask me about [Your Expertise Areas]
 - 📫 How to reach me: [Your Email/Contact]
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+#### Programming Languages
+[![Programming Languages](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+
+#### Frontend Web Development
+[![Frontend Web Development](https://skillicons.dev/icons?i=html,css,scss,react,next,jquery,tailwind,bootstrap,vite,mui)](https://skillicons.dev)
+
+#### Backend Web Development
+[![Frontend Web Development](https://skillicons.dev/icons?i=express,nest,django,spring,fastapi)](https://skillicons.dev)
+
+#### Databases
+[![Databases](https://skillicons.dev/icons?i=mysql,sqlserver)](https://skillicons.dev)
+
+#### Devops
+[![Devops](https://skillicons.dev/icons?postman,git)](https://skillicons.dev)
+
+#### Others Skills
+[![Others Skills](https://skillicons.dev/icons?i=figma,discord,photoshop,cypress,npm,pnpm,bots)](https://skillicons.dev)
 
 ## 📊 GitHub Statistics
 
