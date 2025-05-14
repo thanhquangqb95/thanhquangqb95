@@ -18,7 +18,7 @@
 [![Programming Languages](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
 #### Frontend Web Development
-[![Frontend Web Development](https://skillicons.dev/icons?i=html,css,scss,react,next,jquery,tailwind,bootstrap,vite,mui)](https://skillicons.dev)
+[![Frontend Web Development](https://skillicons.dev/icons?i=html,css,scss,react,next,jquery,tailwind,bootstrap,vite,mui,vue)](https://skillicons.dev)
 
 #### Backend Web Development
 [![Frontend Web Development](https://skillicons.dev/icons?i=express,nest,django,spring,fastapi)](https://skillicons.dev)
